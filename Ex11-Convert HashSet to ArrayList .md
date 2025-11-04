@@ -1,4 +1,4 @@
-# Ex11 Tree Representation and Traversal
+# Ex11 Convert HashSet to ArrayList in Java
 ## DATE:
 ## AIM:
 To convert a collection of distinct integers stored in a HashSet into an ArrayList and display its contents.
